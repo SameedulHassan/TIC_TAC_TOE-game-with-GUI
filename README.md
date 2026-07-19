@@ -2,7 +2,7 @@
 
 A simple Tic Tac Toe game built with a graphical user interface using Python and Tkinter.
 
-Features:
+## Features
 - Human vs Computer gameplay
 - Computer powered by Minimax algorithm with alpha-beta pruning
 - Game board reset button
@@ -10,3 +10,6 @@ Features:
 
 In this TIC TAC TOE game you will find yourself competing to a strong candidate i.e computer.
 This notebook contains the full GUI game implementation and logic for playing against an AI opponent.
+
+## Game Preview
+![Tic Tac Toe Game](image.png)
